@@ -7,4 +7,6 @@ dogs
 cats
 horses
 cows
+unicorns
+spaceships
 Meow Meow Meow.
