@@ -6,6 +6,9 @@ ponies
 dogs
 cats
 horses
+rainbows
+crazy
+wow
 cows
 unicorns
 spaceships
